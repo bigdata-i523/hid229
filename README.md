@@ -9,8 +9,8 @@
 ```
 owner:
     hid: 229
-    name: 
-    url: 
+    name: ZhiCheng Zhu
+    url: https://github.com/bigdata-i523/hid229
 ```
 
 # Paper 1
@@ -18,14 +18,14 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - ZhiCheng Zhu
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases tis and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   - 229
+   title: Big Data and Machine Learning
+   abstract: Seeking to understand the relation between Big data and machine learning and how will it affects our future.
+   url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
+   type: word
+   status: In progress
 ```
    
 # Paper 2
