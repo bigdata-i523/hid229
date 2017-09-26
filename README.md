@@ -1,8 +1,8 @@
 # hid229
 # Comments
 
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
+name: ZhiCheng Zhu
+url: https://github.com/bigdata-i523/hid229
 
 # Owner
 
@@ -24,7 +24,7 @@ paper1:
    title: Big Data and Machine Learning
    abstract: Seeking to understand the relation between Big data and machine learning and how will it affects our future.
    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
-   type: word
+   type: latex
    status: In progress
 ```
    
@@ -33,12 +33,12 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - ZhiCheng Zhu
    hid:
-   - 000
+   - 229
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/sample-hid229/paper2/paper2.pdf   
 ```
 
 # Project 
@@ -51,11 +51,11 @@ paper2:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - ZhiCheng Zhu
    hid:
-   - 000
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
-```
+   - 229
+   title: TBD
+   abstract: TBD
+   url: https://github.com/bigdata-i523/pid229/project/report.pdf
+   type: latex
    
