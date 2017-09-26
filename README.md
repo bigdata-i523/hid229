@@ -1,8 +1,3 @@
-# hid229
-# Comments
-
-name: ZhiCheng Zhu
-url: https://github.com/bigdata-i523/hid229
 
 # Owner
 
