@@ -13,6 +13,12 @@
 * 08/25/17 Enabled Python 2 and 3 via pyenv on OSX
 * 08/25/17 to 09/10/17 Review Python and read book about Python
 
+# Meetings 
+
+* 08/25/2017 Meeting: Attended class meeting for residential students
+* 09/01/2017 Meeting: Attended class meeting for residential students
+* 09/08/2017 Meeting: Attended class meeting for residential students
+* 09/22/2017 Meeting: Attended class meeting for residential students
 # Writing
 
 * 09/10/17 Proposed topic for Paper 1
