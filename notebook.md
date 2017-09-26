@@ -1,6 +1,7 @@
 # Logistic
 
 * 08/21/17 Read the entire class overview section 
+* 09/15/17 Registered for ShareLatex. Read thru help and introductory ShareLatex training information. Created a sample ShareLatex project.
 
 # Theory
 
@@ -10,8 +11,13 @@
 # Practice
 
 * 08/25/17 Enabled Python 2 and 3 via pyenv on OSX
+* 08/25/17 to 09/10/17 Review Python and read book about Python
 
 # Writing
 
+* 09/10/17 Proposed topic for Paper 1
 * 09/15/17 Installed and Learned jabref
 * 09/18/17 Installed and Learned Latex
+* 09/20/17 Research for paper
+* 09/24/17 - 09/26/17 Worked on writing paper
+
