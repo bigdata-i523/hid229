@@ -34,7 +34,7 @@ paper2:
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid229/paper2/paper2.pdf  
-   type: late
+   type: latex
    status: In progress
 ```
 
@@ -54,6 +54,5 @@ paper2:
    title: TBD
    abstract: TBD
    url: https://github.com/bigdata-i523/pid229/project/report.pdf
-   type: late
    status: not yet started
    
