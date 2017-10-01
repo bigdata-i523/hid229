@@ -17,10 +17,13 @@ paper1:
    hid:
    - 229
    title: Big Data and Machine Learning
-   abstract: Seeking to understand the relation between Big data and machine learning and how will it affects our future.
+   abstract: >
+      Seeking to understand the relation between Big data and machine
+      learning and how will it affects our future. 
    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
    type: latex
    status: In progress
+   chapter: Machien Leraning
 ```
    
 # Paper 2
