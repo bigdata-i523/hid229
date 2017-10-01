@@ -23,7 +23,7 @@ paper1:
    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
    type: latex
    status: In progress
-   chapter: Machien Leraning
+   chapter: Machine Learning
 ```
    
 # Paper 2
