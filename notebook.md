@@ -26,4 +26,5 @@
 * 09/18/17 Installed and Learned Latex
 * 09/20/17 Research for paper
 * 09/24/17 - 09/26/17 Worked on writing paper
+* 10/09/17 - Completed Paper-1 assignment
 
