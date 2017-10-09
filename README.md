@@ -22,7 +22,7 @@ paper1:
       learning and how will it affects our future. 
    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
    type: latex
-   status: 50%
+   status: 100%
    chapter: Machine Learning
 ```
    
