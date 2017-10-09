@@ -28,7 +28,7 @@
 
 \begin{abstract}
 
-    With the development of IT technology, the world will enter the information age. People also called this “the era of third industrial revolution”. Given the continuous development of the process of the third industrial revolution, all aspects of the traditional way of human society are changing. It can be said that every minute on the internet, have large amounts of new information be produced. With the increasing use of the internet and the increase of network bandwidth. People are making data every moment. It makes the information increasing quite quickly at a phenomenal rate. With so much data becoming available, getting data is not a problem for us anymore but find the right resource from the expanding information becoming a problem for most of the researchers. 
+    With the development of IT technology, the world will enter the information age. People also called this ``the era of third industrial revolution''. Given the continuous development of the process of the third industrial revolution, all aspects of the traditional way of human society are changing. It can be said that every minute on the internet, have large amounts of new information be produced. With the increasing use of the internet and the increase of network bandwidth. People are making data every moment. It makes the information increasing quite quickly at a phenomenal rate. With so much data becoming available, getting data is not a problem for us anymore but find the right resource from the expanding information becoming a problem for most of the researchers. Because the data collected and stored at enormous speeds and human analysts may take weeks to discover useful information, traditional techniques are unfeasible for big data area. Therefore, we need to find new techniques to meet the challenge.
     
 \end{abstract}
 
@@ -37,17 +37,27 @@
 \maketitle
 
 \section{Introduction}
-The word ``Machine Learning'' first raised by Arthur Samuel, an American pioneer in the computer gaming and artificial intelligence areas. In a broad sense, machine learning is a way to give the machine the ability to learn so that it can complete some task which not done directly by programming. It is a way of using Data to produce a model and then using the model to do prediction. Traditionally, if we want the computer to work, we will give it a series of computer instructions, and then the computer will follow this instruction step by step. The consequence always results by the code which you input before. And you can predict the result. But this way does not work in machine learning. Machine learning does not accept the instructions you entered at all, instead, it will accept the data you entered and applications of machine learning methods to these data sets and finally get produce a result. The core of big data is finding the value from the massive data sets, machine learning is a key technique that can effectively use the data value, for big data, the machine learning is indispensable. On the contrary, for machine learning, the more data will be more likely to improve the accuracy of the model. Therefore, the rise of machine learning is also inseparable from the help of big data. Big data and machine learning are mutually reinforcing and dependent.
+The word ``Machine Learning'' first raised by Arthur Samuel, an American pioneer in the computer gaming and artificial intelligence areas \cite{Kohavi1}. In a broad sense, machine learning is a way to give the machine the ability to learn so that it can complete some task which not done directly by programming. It is a way of using Data to produce a model and then using the model to do prediction. Traditionally, if we want the computer to work, we will give it a series of computer instructions, and then the computer will follow this instruction step by step. The consequence always results by the code which you input before. And you can predict the result. But this way does not work in machine learning. Machine learning does not accept the instructions you entered at all, instead, it will accept the data you entered and applications of machine learning methods to these data sets and finally get produce a result. The core of big data is finding the value from the massive data sets, machine learning is a key technique that can effectively use the data value, for big data, the machine learning is indispensable. On the contrary, for machine learning, the more data will be more likely to improve the accuracy of the model. Therefore, the rise of machine learning is also inseparable from the help of big data. Big data and machine learning are mutually reinforcing and dependent.
 
+\section{Challenges in Machine learning}
+Machine Learning has made extraordinary progress in the last 30 years. There have been significant advances in some area such as ``Data Security, Finance, Marketing Personalization, Recommendations, and Smart Cars''. But there are still a lot of obstacles for machine learning to go a step further. for example, lack of available data sets will be a problem whatever the past, the present, or the future. It has always been a problem. In the past, it is hard for a data scientist to find a tool to collect intensive data for researching. Nowadays, most of the data are collected by the big Internet company. the key problem of machine learning becomes to how people can get permission to access the data sets which owned by these big internet company. In the future, as the machine learning develop, the safety will become increasingly become the focus of attention. The Machine learning can be broken down into the following categories:
+\begin{itemize}
 
+  \item ``Supervised learning is a type of machine learning algorithm that uses a known data set (called the training data set) to make predictions. The training data set includes input data and response values. From it, the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new data set. A test data set is often used to validate the model. Using larger training data sets often yield models with higher predictive power that can generalize well for new data sets.'' \cite{Mathworks02}.
+  
+  
+  \item ``Unsupervised learning is a type of machine learning algorithm used to draw inferences from data sets consisting of input data without labeled responses'' \cite{Mathworks01}.
+  
+  
+  \item Semi-Supervised Learning:A learning method combining supervised learning with unsupervised learning. Recognition is done using a large amount of unlabeled data and also using labeled data at the same time.
+  
 
-
-
-\section{The Body of The Paper}
-
-this is the body of the paper
-
-
+  
+\end{itemize}
+For example, one of most common problem in Machine learning is Catastrophic forgetting, as we all know the machine learning need learning from enormity of data and create a model. Catastrophic forgetting means the model will completely and abruptly forget previously learned information upon learning from some new data sets. If we want achieve artificial general intelligence, then machine learning must be able to be used to perform multiple tasks. Even we can use representation learning and transfer learning to help us solve this problem to a certain extent but still has significant performance degradation.
+Another problem for machine learning is the safety. If we want apply machine learning in people’s daily life. The security will be a question which the Data scientist unable to avoid. For example, in an image recognition test, ``starting with an image of a panda, the attacker adds a small perturbation that has been calculated to make the image be recognized as a gibbon with high confidence''\cite{Ophir}.
+Another problem might raise because the type of data sets. There are several different type of data in the Big Data area. The original unlabeled data and labeled data. the labeled will highly increasing the efficiency of the process when the model start to learning. Also, it will make the model more accurate when them do recognition. But the fact is even though the data increasing quite quickly at a phenomenal rate, with 2.5 quintillion bytes a day. but most of these data are unlabeled, which means these data are useless for supervised learning. and it also not suitable for deep learning which is the subset of machine learning.
+\section{Applications in Machine Learning}
 
 \section{Conclusions}
 
