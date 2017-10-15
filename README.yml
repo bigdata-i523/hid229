@@ -1,0 +1,27 @@
+---
+owner:
+    hid: 229
+    name: ZhiCheng Zhu
+    url: https://github.com/bigdata-i523/hid229
+paper1:
+    abstract: "Seeking to understand the relation between Big data and machine learning\
+        \ and how will it affects our future. \n"
+    author:
+        - ZhiCheng Zhu
+    chapter: Machine Learning
+    hid:
+        - 229
+    status: 100%
+    title: Big Data and Machine Learning
+    type: latex
+    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
+paper2:
+    abstract: TBD
+    author:
+        - ZhiCheng Zhu
+    hid:
+        - 229
+    status: not yet started
+    title: TBD
+    type: report
+    url: https://github.com/bigdata-i523/pid229/project/report.pdf
