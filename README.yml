@@ -5,8 +5,8 @@ owner:
     url: https://github.com/bigdata-i523/hid229
 paper1:
     abstract: >
-        Seeking to understand the relation between Big data and machine learning
-        and how will it affects our future.
+        Seeking to understand the relation between Big data and machine
+        learning and how will it affects our future.
     author:
         - ZhiCheng Zhu
     chapter: Machine Learning
@@ -17,7 +17,9 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
 paper2:
-    abstract: Looking at how big-data affect the mobile device application development-(the entire life-cycle of an application)
+    abstract: >
+        Looking at how big-data affect the mobile device application
+        development-(the entire life-cycle of an application)
     author:
         - ZhiCheng Zhu
     chapter: application development
