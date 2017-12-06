@@ -15,7 +15,7 @@ paper1:
     status: 100% Oct 27 2017
     title: Big Data and Machine Learning
     type: latex
-    url: https://github.com/bigdata-i523/sample-hid229/paper1/paper1.pdf
+    url: https://github.com/bigdata-i523/sample-hid229/paper1/
 paper2:
     abstract: >
         Looking at how big-data affect the mobile device application
@@ -28,17 +28,21 @@ paper2:
     status: 100% Nov 06 2017
     title: Big Data Analytics in Mobile device Application Development
     type: latex
-    url: https://github.com/bigdata-i523/sample-hid229/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/sample-hid229/paper2/
 project:
     review: Dec 4 2017
     abstract: >
-The success of a new product is to a large extent due to whether the producer making efficient 
-and accurate strategies between the different stages of a product lifecycle. 
-Big Data analytic techniques have the potential to improve the efficiency of product development, 
-making accurate product strategy, channel strategy, 
-pricing strategies and promotional strategies in the different period of a product lifecycle. 
-In this project, I will try to figure out how the data affect the decision making and try to use decision trees 
-and PageRank to making classification and produce a good market segmentation and market positioning for a product.
+        The success of a new product is to a large extent due to
+        whether the producer making efficient and accurate strategies
+        between the different stages of a product lifecycle.  Big Data
+        analytic techniques have the potential to improve the
+        efficiency of product development, making accurate product
+        strategy, channel strategy, pricing strategies and promotional
+        strategies in the different period of a product lifecycle.  In
+        this project, I will try to figure out how the data affect the
+        decision making and try to use decision trees and PageRank to
+        making classification and produce a good market segmentation
+        and market positioning for a product.
     author:
         - ZhiCheng Zhu
     chapter: product development
