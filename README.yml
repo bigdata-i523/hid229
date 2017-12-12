@@ -22,7 +22,7 @@ paper2:
         development-(the entire life-cycle of an application)
     author:
         - ZhiCheng Zhu
-    chapter: application development
+    chapter: Edge Computing
     hid:
         - 229
     status: 100% Nov 06 2017
@@ -45,7 +45,7 @@ project:
         and market positioning for a product.
     author:
         - ZhiCheng Zhu
-    chapter: product development
+    chapter: Business
     hid:
         - 229
     status: 100%; 12/4/2017
