@@ -14,7 +14,6 @@ paper1:
         - 229
     status: 100% Oct 27 2017
     title: Big Data and Machine Learning
-    type: latex
     url: https://github.com/bigdata-i523/sample-hid229/paper1/
 paper2:
     abstract: >
@@ -27,7 +26,6 @@ paper2:
         - 229
     status: 100% Nov 06 2017
     title: Big Data Analytics in Mobile device Application Development
-    type: latex
     url: https://github.com/bigdata-i523/sample-hid229/paper2/
 project:
     review: Dec 4 2017
